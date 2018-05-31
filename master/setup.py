@@ -16,7 +16,7 @@
 # Copyright Buildbot Team Members
 
 """
-Standard setup script.
+Standard setup script.1
 """
 
 from __future__ import absolute_import
